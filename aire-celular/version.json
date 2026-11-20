@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
+  "versionCode": 12,
+  "versionName": "1.2.0",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "Calidad 480p-1080p/60 y navegador de sala. Hash local ref: 20e6e07466aad56fa4f0b7d9cf74929b0e59ac7217f3750044ea976221472b3f"
+  "notas": "Sin efecto lupa: FOV nativa 4:3 + bloqueo táctil en vivo."
 }
