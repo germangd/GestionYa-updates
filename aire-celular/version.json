@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.2.2",
+  "versionCode": 15,
+  "versionName": "1.2.3",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "Stream siempre 16:9 a todo el ancho de Stripchat (sin franjas laterales)."
+  "notas": "OTA más fiable (varios mirrors) + botón Buscar actualización. Stream 16:9 a lo ancho."
 }
