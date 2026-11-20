@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.4",
+  "versionCode": 17,
+  "versionName": "1.2.5",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "En vivo: celular horizontal = Stripchat a lo ancho sin zoom/lupa."
+  "notas": "Orientación corregida: vertical derecho sin lupa; horizontal llena Stripchat."
 }
