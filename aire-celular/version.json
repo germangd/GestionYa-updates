@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.2.8",
+  "versionCode": 21,
+  "versionName": "1.2.9",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "Horizontal derecho (ya no de costado al girar)."
+  "notas": "Horizontal derecho con sensor físico (sirve con rotación bloqueada)."
 }
