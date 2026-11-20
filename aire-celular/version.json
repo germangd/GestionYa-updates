@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.3.0",
+  "versionCode": 23,
+  "versionName": "1.3.1",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "16:9 fijo; gira con el celular sin cortar el vivo."
+  "notas": "Sin lupa: captura FOV ancho (4:3) dentro de encode 16:9."
 }
