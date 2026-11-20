@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.0",
+  "versionCode": 13,
+  "versionName": "1.2.1",
   "apkUrl": "https://github.com/germangd/GestionYa-updates/releases/download/aire-celular/AIRE-Celular.apk",
   "sha256": "",
-  "notas": "Sin efecto lupa: FOV nativa 4:3 + bloqueo táctil en vivo."
+  "notas": "Encode como OBS Stripchat: keyframe 2s, AAC 128k, bitrates de la tabla, 30 fps."
 }
